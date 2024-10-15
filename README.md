@@ -99,5 +99,6 @@ Se implementan varias funciones que permiten calcular y distribuir la herencia:
 •	distribuir_herencia/4: calcula cómo se distribuye la herencia entre los herederos.
 •	calcular_herencia/2: es la función principal que inicia el proceso de cálculo de la herencia y presenta la distribución.
 
-
+video:
 https://drive.google.com/file/d/1pxhVJXJ2dYSc38LHYw-gKY3FBRnclyOu/view?usp=sharing
+}
